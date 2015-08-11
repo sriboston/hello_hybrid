@@ -1,0 +1,6 @@
+hello_hybrid
+*.log
+*.png
+*.jpg
+outputs/
+*.o
